@@ -2,28 +2,10 @@ aaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbb
 ccccccccccccccccc
 
-ddddddddddddddd
+
+0000000000000
+3333333333333
+5555555555555
+9999999999999
 
 
-bbbbbbbbbbbbbbbb
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-dddddddddd
-ddddddddddddd
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-
-
-11111111111111
-Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
-
-=======
-Creating a new branch is quick and simple.
-
-
-fffffffffffffffffff
-ffffffffffffffffffff
->>>>>>> dev
->>>>>>> feature1
